@@ -92,7 +92,7 @@ Eu venho desenvolvendo sistemas e sites ao longo de 5 anos, sempre aprendendo e 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="36" height="36" />
   </a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Sequelize" title="Sequelize" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" width="36" height="36" />
   </a>
   <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
