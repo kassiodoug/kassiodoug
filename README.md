@@ -6,7 +6,7 @@ Desenvolvedor Full Stack
 
 Eu venho desenvolvendo sistemas e sites ao longo de 5 anos, sempre aprendendo e crescendo profissionalmente.
 
-* 🖥️ [Portfólio disponível aqui](http://https://kassiodouglas.vercel.app/)
+* 🖥️ [Portfólio em construção...](https://kassiodouglas.vercel.app/)
 
 
 <p align="left">
