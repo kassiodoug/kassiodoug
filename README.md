@@ -101,11 +101,5 @@ Eu venho desenvolvendo sistemas e sites ao longo de 5 anos, sempre aprendendo e 
   <a href="https://www.linkedin.com/in/kassio-santos-b73a37227" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kassiodoug"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kassiodoug&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kassiodoug&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
