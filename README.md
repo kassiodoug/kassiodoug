@@ -1,8 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kassio Douglas
-=======================================================================================================================================
+<div>
+    <h1 align="center">
+      Kassio Douglas
+    </h1>
+<h2 align="center">
+  Desenvolvedor Full Stack
+</h2>
 
-Desenvolvedor Full Stack
-------------------------
+</div>
 
 Eu venho desenvolvendo sistemas e sites ao longo de 5 anos, sempre aprendendo e crescendo profissionalmente.
 
