@@ -38,6 +38,8 @@ Eu venho desenvolvendo sistemas e sites ao longo de 5 anos, sempre aprendendo e 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" title="React Router" width="36" height="36" /></a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="Zustand" title="Zustand" width="36" height="36" /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="36" height="36" /></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
